@@ -1,0 +1,41 @@
+{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  width: 200px;
+  height: 500px;
+}
+.student_id{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.student_id .inp{
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  width: 120px;
+  height: 20px;
+}
+.password{
+  position: absolute;
+  top: 50px;s
+  left: 10px;
+}
+.password .inp{
+  margin-left: 10px;
+}
+.name{
+  position: absolute;
+  top: 90px;
+  left: 10px;
+}
+.name .inp{
+
+}
+.btn{
+  position: absolute;
+  top: 130px;
+  left: 10px;
+}
