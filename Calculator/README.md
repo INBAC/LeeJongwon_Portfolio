@@ -1,5 +1,7 @@
-#Simple Calculator
-##Written By Jongwon Lee
+Simple Calculator
+===
+Written By Jongwon Lee
+---
 This code will read the
-'input.txt'
+`input.txt`
 file and compute the specified calculation.
